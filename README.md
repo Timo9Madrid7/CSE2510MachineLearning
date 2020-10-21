@@ -1,3 +1,5 @@
+# Practical Assignment
+
 In this assignment, you and your teammate will explore different datasets. Each dataset has its own shortcomings and problems that you will have to overcome to find the best possible classifier. During this assignment, you will explore the effectiveness of the following algorithms on these datasets:
 
 • Gaussian Naive Bayes (week 2);
