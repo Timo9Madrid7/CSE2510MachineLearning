@@ -3,9 +3,13 @@
 In this assignment, you and your teammate will explore different datasets. Each dataset has its own shortcomings and problems that you will have to overcome to find the best possible classifier. During this assignment, you will explore the effectiveness of the following algorithms on these datasets:
 
 • Gaussian Naive Bayes (week 2);
+
 • K Nearest Neighbors (week 3);
+
 • Logistic Regression (week 4);
+
 • Support Vector Machine (week 4);
+
 • Decision Trees (week 6);
 
 For each dataset, we expect you to follow the following structure:
